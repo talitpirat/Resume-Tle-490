@@ -1,0 +1,139 @@
+.top-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Thai-0{
+    margin-right: 10px;
+}
+h1,h3{
+    color: #21a0a6;
+    margin-left: 20px;
+}
+p, h2{
+  margin-left: 20px;
+}
+.table-1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+.Botton{
+  width: 100%;
+  height: 80px;
+  background-color: #818185;
+  margin: 0;
+}
+
+.table-2, .tr-2, .th-2, .td-2{
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+.table-3{
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+body{
+    margin: auto;
+    font-family: 'Kanit', sans-serif;
+    background-color: #d0d5d7;
+    text-align: center;
+}
+.example-div{
+    padding: 20px;
+    margin: 10px;
+    background-color: aquamarine;
+}
+.top-cloud {
+    position:absolute;
+    top: 50px;
+    right: 300px;
+  }
+  
+.bottom-cloud {
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  .profile{
+    width: 300px;
+    border-radius: 50%; 
+  }
+  hr {
+    border-top: 1px dashed rgb(85, 84, 84);
+  }
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  }
+  .imags{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+    border: 10px solid #ddd;
+    overflow:hidden;
+    border-radius: 5px;
+    box-shadow: 5px 15px 25px rgba(0, 0, 0, 0.3);
+  }
+
+  .grid-container1 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-gap: 10px;
+
+}
+h6{
+    font-weight: bold;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-gap: 10px;
+
+}
+.v123{
+  margin: auto;
+  text-align: center;
+
+}
+td{
+  padding: 0px 15px 0px 15px;
+  margin: 0px 15px 0px 15px;
+}
+.v1234{
+  text-align: justify;
+}
+.img-1{
+    width: 40px;
+    border-radius: 50%; 
+}
+.c1 {
+  background-color: rgb(231, 230, 228);
+  margin-bottom: 10px;
+  margin-left: 150px;
+  padding: 5px 0px 30px 0px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.c2 {
+  background-color: rgb(231, 230, 228);
+  margin-bottom: 10px;
+  margin-right: 150px;
+  padding: 5px 0px 53px 0px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.btn-info {
+  color: rgb(255, 255, 255);
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
